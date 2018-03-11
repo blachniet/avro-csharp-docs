@@ -9,10 +9,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.ArraySchema.html",
-          "hash": "UHCuGP4if2kCL8WD29RCzA=="
+          "hash": "Czyb+z+uJF8ZWiD7ryDxhQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -21,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.AvroException.html",
-          "hash": "qWe+X/a6GjyCCS28OpxZ1g=="
+          "hash": "Si8/btY/9HgBfdjqJ8O9Fw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -33,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.AvroRuntimeException.html",
-          "hash": "zEeG9zjsJsD3npabUZA0Eg=="
+          "hash": "ifyNzjr72QcWH+B2lIQgJg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -45,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.AvroTypeException.html",
-          "hash": "Or1nsL1SXquUyucvQklckQ=="
+          "hash": "bXT94vicUeKjD0y69c5w4Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -57,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.CodeGen.html",
-          "hash": "27T/gITkSjmYJ6s0pqXTHw=="
+          "hash": "kqjHl5dWqDORFida/mdUgQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -69,10 +69,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.CodeGenUtil.html",
-          "hash": "0nxxwN8KWzFpNphLaJ7O5Q=="
+          "hash": "/CaWtL9OdaXrttBElIVAPw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -81,10 +81,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.EnumSchema.html",
-          "hash": "ayOyHqAnUM7o81PxLxlKRg=="
+          "hash": "sS9/J+8esqjEUUFLjzya+w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -93,10 +93,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Field.SortOrder.html",
-          "hash": "+ns6mov7qdSvODnk7fX0ww=="
+          "hash": "3yfglToiV6Ci2h3vvvc4GA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -105,10 +105,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Field.html",
-          "hash": "S8vCTor6ozh8kcVhawWPjw=="
+          "hash": "BvZpsT2H0TjHy2cbu5iOWw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -117,10 +117,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.File.Codec.Type.html",
-          "hash": "8XJdd+FFTRkAluGHieZOUg=="
+          "hash": "rGCbG5D1M2E/qN4PE38N7w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -129,10 +129,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.File.Codec.html",
-          "hash": "+VI/Uom5kP4oLuyWu713Ug=="
+          "hash": "1T3oC89MIhKYXkgfe5hr4A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -141,10 +141,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.File.DataBlock.html",
-          "hash": "9a03oPTF8oNN0pYS07ZBeA=="
+          "hash": "ABB6k6cPzN+1wTrUrfWs9Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -153,10 +153,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.File.DataFileConstants.html",
-          "hash": "QFLQYonh3JvAspVuyb5SYw=="
+          "hash": "06WCIsPckqDhl0tlZR1WWw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -165,10 +165,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.File.DataFileReader-1.CreateDatumReader.html",
-          "hash": "ArABLc5rTsVFLgHtuejRsw=="
+          "hash": "xUVffKdPncXC062A26uI9w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -177,10 +177,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.File.DataFileReader-1.html",
-          "hash": "iKDBAPF2FOmCgxa7bWI6dw=="
+          "hash": "HuqQjDl22x4cP+v26xutnw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -189,10 +189,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.File.DataFileWriter-1.html",
-          "hash": "ERYAOgsleBIFslUDJuMfdg=="
+          "hash": "cLmxnKVkO764aLrFzLyg1w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -201,10 +201,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.File.DeflateCodec.html",
-          "hash": "P6pKcBMJtLAr3bWh9EPWEw=="
+          "hash": "vzlzKWBDcApzliQBqHmffQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -213,10 +213,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.File.Header.html",
-          "hash": "t47eMLOD9HbpZ4phSyc17g=="
+          "hash": "GVLlN97xcGwqzQI6QWV70g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -225,10 +225,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.File.IFileReader-1.html",
-          "hash": "3h28ylD13BkqVqcjZ4VUbA=="
+          "hash": "JVimUcd7yXUZLf0+aMCkYQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -237,10 +237,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.File.IFileWriter-1.html",
-          "hash": "qNYoa3O78YpSZdJVb54laQ=="
+          "hash": "EDtM42E6bo9faRPJn1UzfQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -249,10 +249,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.File.NullCodec.html",
-          "hash": "t1PpcaQXY/hDc8XOnrKmCg=="
+          "hash": "Qf+6dn2Sq9H1E+gJ0nkCfQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -261,10 +261,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.File.html",
-          "hash": "ZTTSIcVTT7DkYJTNIZuInw=="
+          "hash": "STS91yKl7LfyzSUFEWKA+g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -273,10 +273,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.FixedSchema.html",
-          "hash": "elVUL3oaF0SJEyWoNqaWCA=="
+          "hash": "UZjMSQ3Eay6uokTWVflm7w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -285,10 +285,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.DatumReader-1.html",
-          "hash": "U3rp336K8plowjqqkiLUnA=="
+          "hash": "EGIgJnR3swTcyXAy5LvLcg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -297,10 +297,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.DatumWriter-1.html",
-          "hash": "TW4mHuvHL9ChSHZTgmj/uA=="
+          "hash": "BIvISATVmhn7S5FfdcWMcQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -309,10 +309,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.DefaultReader.html",
-          "hash": "0gZh1XIM70lQTxqtwphhVg=="
+          "hash": "bGPhuFujROZ26CCWiBlYzg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -321,10 +321,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.DefaultWriter.html",
-          "hash": "wv3y8r2NPCswayQ2PFz9Gw=="
+          "hash": "EXYAEpheZmjaTqQXVHJMoA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -333,10 +333,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.GenericDatumReader-1.html",
-          "hash": "GOEnL97+E+M63eUi2oG5UQ=="
+          "hash": "kKN9PYeP7Y5eJFzlb+EjRw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -345,10 +345,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.GenericDatumWriter-1.html",
-          "hash": "+Rw0IDM0gGKU+YbSiFyGkQ=="
+          "hash": "dWMh6BpqGJgJ5w+LgAsoPg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -357,10 +357,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.GenericEnum.html",
-          "hash": "UVy5+m+BaR/w5X6bWtGxag=="
+          "hash": "/vvyCe5lorfNP6qAYvWs1w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -369,10 +369,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.GenericFixed.html",
-          "hash": "NLY74QR4wj9xmxE6Zeua3w=="
+          "hash": "bhRyDdHzQOFEUjeO+gojBw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -381,10 +381,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.GenericReader-1.html",
-          "hash": "kOrDgN6wxuSOyZrTykN3Zg=="
+          "hash": "8cAPudmxmaZOv4c41QdGDQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -393,10 +393,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.GenericRecord.html",
-          "hash": "HU7QbRlNr57KP5y217UgZA=="
+          "hash": "SrisZSk1SCs/dgooJMCByw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -405,10 +405,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.GenericWriter-1.html",
-          "hash": "nDVSYkHMjWuBkUiHfpLdSQ=="
+          "hash": "03y7Qc4YHpvzjHLEQ9Kw9A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -417,10 +417,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumReader-1.ArrayAccess.html",
-          "hash": "ez/EHGc72xCpX+2DOzqZog=="
+          "hash": "UNioXBUlPFPw2J0bb4lvMA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -429,10 +429,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumReader-1.EnumAccess.html",
-          "hash": "/GHDKDFwYXD+U9p7N7hgAw=="
+          "hash": "cNuqAoUE3hUjN5VQ+RZNiw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -441,10 +441,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumReader-1.FixedAccess.html",
-          "hash": "bHbDshgHtTTGg5E8v5xNnQ=="
+          "hash": "9ri5X4bUJrMyFDu08taUDg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -453,10 +453,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumReader-1.MapAccess.html",
-          "hash": "8EgfFmBpdsMtlZ9qluaHbA=="
+          "hash": "ErN7V8F4+fKDb61omRr/HA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -465,10 +465,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumReader-1.ReadItem.html",
-          "hash": "ArZ28Q+qKWb2JcXXXRf7VA=="
+          "hash": "K1VKFSHn7/BdzOzGepZbHw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -477,10 +477,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumReader-1.RecordAccess.html",
-          "hash": "FuUi33pswF41WUfTDKNWTA=="
+          "hash": "ZF6Zzj9+liqnTioARifl5w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -489,10 +489,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumReader-1.html",
-          "hash": "JNpd2TeqCBWvW6OuiqG1RA=="
+          "hash": "CFyNJo76d732NtDFUjaELw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -501,10 +501,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumWriter-1.ArrayAccess.html",
-          "hash": "6hjA5ROizDVdLsLrfjGcLw=="
+          "hash": "udfeduCBU9mPfrQckwVu8A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -513,10 +513,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumWriter-1.DictionaryMapAccess.html",
-          "hash": "xZGMwBiPneCwn9V2y6WysA=="
+          "hash": "WUbzvrMDAnBSOjoiyYUeCQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -525,10 +525,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumWriter-1.EnumAccess.html",
-          "hash": "LEzB9xmznriufCiOuL7CTg=="
+          "hash": "0/ZlktO8mp/0r1YxvgUTSQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -537,10 +537,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumWriter-1.MapAccess.html",
-          "hash": "uXnpClu2VakUl/6rUJqNqA=="
+          "hash": "Z73+BcWgx/yhnsHr0QBETQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -549,10 +549,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumWriter-1.RecordFieldWriter.html",
-          "hash": "gHNB8YED5QD60rrFM4Y8pw=="
+          "hash": "X6v8l1ndq7YzXQVGpNBlrA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -561,10 +561,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumWriter-1.WriteItem.html",
-          "hash": "sHAbpfAFK3JTfrQUB+/F7g=="
+          "hash": "xHc3wXMaDYbE5mb3IlucaQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -573,10 +573,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.PreresolvingDatumWriter-1.html",
-          "hash": "yeTdslltz0zrkHcnVFRN8g=="
+          "hash": "icXxq4jedm0xAYbolVJ2Cw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -585,10 +585,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.Reader-1.html",
-          "hash": "ePZgky2L3mMmZiMWqlj4iA=="
+          "hash": "hpJdP42FppZ5bfE5d5jnsA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -597,10 +597,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.Writer-1.html",
-          "hash": "OyetcXIt7b5mU8t811siVw=="
+          "hash": "I64B643bQpMSYnGpKPeSpw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -609,10 +609,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Generic.html",
-          "hash": "4jeLXQj3BMNHybv4uCu5gg=="
+          "hash": "Vp4d73Dd1zF6U3vacLTZnw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -621,10 +621,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.IO.BinaryDecoder.html",
-          "hash": "Ofql++X37A08fVwtpdfwAw=="
+          "hash": "qunJPPvN0QLyfrdJ1CTk6A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -633,10 +633,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.IO.BinaryEncoder.html",
-          "hash": "h/DRAqryYtnQXAj//M+m1A=="
+          "hash": "aB1l1tbjwBZP7vHy4niV4w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -645,10 +645,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.IO.ByteBufferInputStream.html",
-          "hash": "Ytb9cSXp5tY+mkztBIFibg=="
+          "hash": "bcJm2nCAFPPNbFp53Q7mww=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -657,10 +657,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.IO.ByteBufferOutputStream.html",
-          "hash": "yZjxSYP6RoqPDRAKuVLzgw=="
+          "hash": "7AzyFMtt41BdMom1M/IF/g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -669,10 +669,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.IO.Decoder.html",
-          "hash": "6ol7FKdGGKKhWILM/4P2lA=="
+          "hash": "+os2Q/dE29pl/34KVlAZww=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -681,10 +681,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.IO.Encoder.html",
-          "hash": "b0PR8dvv+GV54j+FLRIMpQ=="
+          "hash": "p+gWcVwYqPjrXG6ScJ4lBg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -693,10 +693,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.IO.ICallback-1.html",
-          "hash": "hjlsEdVEDp5TCrG9IOQoAg=="
+          "hash": "qf4K7JKWEmhh+pDwQB+DLA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -705,10 +705,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.IO.InputStream.html",
-          "hash": "pZajEy29DlVYlLYDkYAJqQ=="
+          "hash": "EeRQSy8NGMuaEiNHG2nADg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -717,10 +717,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.IO.OutputStream.html",
-          "hash": "zWbelhoeLStyliXwK9G8LQ=="
+          "hash": "j7Ms9OCw/Y+sDQi9EaTvqQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -729,10 +729,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.IO.html",
-          "hash": "HMBLSBrayF+C0faeQoUf3A=="
+          "hash": "A6fB/DBdF5tc40NspSUcJw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -741,10 +741,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.MapSchema.html",
-          "hash": "Ton5+q9OHdS6j0iVgs0+2Q=="
+          "hash": "oW32xyj1T6KcamrsWly5hA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -753,10 +753,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Message.html",
-          "hash": "25q2DExWpn/PfZy8o1SWBg=="
+          "hash": "IAw3NMCs6pIPaWpFbx9WSg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -765,10 +765,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.NamedSchema.html",
-          "hash": "YzASv4dxyXL4aQVt2buk6w=="
+          "hash": "EwATVooGSxyHILetyu66eA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -777,10 +777,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.PrimitiveSchema.html",
-          "hash": "1bC3G/ToopnIpkQ0rlFGPg=="
+          "hash": "RGaZgA1FpMsp3UJNPPtgKw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -789,10 +789,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.PropertyMap.html",
-          "hash": "VYMK6zUa/C3P12gyePEFNw=="
+          "hash": "EdsZyqGQe0mp3FxRby1m1A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -801,10 +801,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Protocol.html",
-          "hash": "T2aejD5UGfgJas68r/tRnw=="
+          "hash": "M7eC1efLYxPstkn4fAkqrA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -813,10 +813,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.ProtocolParseException.html",
-          "hash": "W4KU04sou5E0bvy4MQsa+w=="
+          "hash": "Vhe51AEGkWogP2rkOGTemw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -825,10 +825,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.RecordSchema.html",
-          "hash": "5cdIcpreVyNcMjnIfPiXOA=="
+          "hash": "iDz2z6hnVwpqghEPPtsIUw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -837,10 +837,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Schema.Type.html",
-          "hash": "lXYGKIV8fb4Gl4saiE/8EA=="
+          "hash": "4ybb4NuSxVw6rh5P1FTWDg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -849,10 +849,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Schema.html",
-          "hash": "+FLWzTFjT3t89Lc9upDfcw=="
+          "hash": "ttAWjjWMbbWw5by9rs3xpQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -861,10 +861,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.SchemaName.html",
-          "hash": "VYc3S0Z0f1NDwGp4zf4iww=="
+          "hash": "xY5yMKh8R5rUpfBlIBUVTQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -873,10 +873,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.SchemaNames.html",
-          "hash": "gln+DtmWSJjpzhIqKWFfhQ=="
+          "hash": "x8bowtnAF0wXXXjzmka8Gg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -885,10 +885,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.SchemaNormalization.html",
-          "hash": "A3M8IwTlJanyEkjgLQ0uGw=="
+          "hash": "8Mk0WZGhOwHlo6MLDaYv4A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -897,10 +897,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.SchemaParseException.html",
-          "hash": "/gh+wRucmybhkGsiGMhGnQ=="
+          "hash": "p2yHin3edkh3AP/Mb05bZw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -909,10 +909,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.ICallbackRequestor.html",
-          "hash": "q1+mRo03xJ4f/yKl7VHmBw=="
+          "hash": "tKk0+t2FWU+v5eGrspZXKg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -921,10 +921,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.ISpecificProtocol.html",
-          "hash": "OhHjUIE98SVKETQeaHLc1w=="
+          "hash": "6Ib2kdBTM4zHZW+ud6fY3A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -933,10 +933,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.ISpecificRecord.html",
-          "hash": "LUBBYAjw0EuEgT7oiXm9IA=="
+          "hash": "eIOaKCDUDGze13GdQT7Tcg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -945,10 +945,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.ObjectCreator.CtorDelegate.html",
-          "hash": "RYA1btAn2APlBpQqh4xOFQ=="
+          "hash": "m/fl54SetOtWqx+9B3cVXg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -957,10 +957,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.ObjectCreator.NameCtorKey.html",
-          "hash": "2UiPBLoP0Hp4hpN4s+cmFg=="
+          "hash": "zdat12YsoMX+i9PG6yKJoQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -969,10 +969,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.ObjectCreator.html",
-          "hash": "B+ZrHwCwpOYeJriHGYM8cQ=="
+          "hash": "yeO4gcMvyqTNVXcD6yTTXw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -981,10 +981,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.SpecificDatumReader-1.html",
-          "hash": "uPbaxoyuSjbJzZtjqkDONQ=="
+          "hash": "MenRHlk3diLUoukw/rwswQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -993,10 +993,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.SpecificDatumWriter-1.html",
-          "hash": "EEfSYgKP7/KAO0jvyoUKug=="
+          "hash": "neprVGaf6fp+7TeqwGzhfw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1005,10 +1005,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.SpecificDefaultReader.html",
-          "hash": "mB0igUn1pfaeOkm1dZbR7A=="
+          "hash": "8Sdlua7VLJ+UMm77CqoxYA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1017,10 +1017,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.SpecificDefaultWriter.html",
-          "hash": "J+r0V4K7U/4zezYVZuxmXg=="
+          "hash": "t84fKa30xoQ6spfQCj3MLw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1029,10 +1029,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.SpecificException.html",
-          "hash": "Vh4RUAHz31UK+gXuxJEh4Q=="
+          "hash": "kW97E4357sXGTDuQFBBFig=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1041,10 +1041,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.SpecificFixed.html",
-          "hash": "WGG2o4cq67ITWTL1VgnwWQ=="
+          "hash": "eULa95FlOK0OHVs59aQt0A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1053,10 +1053,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.SpecificReader-1.html",
-          "hash": "3uxN3uXNLc7AFGP/BrrSwQ=="
+          "hash": "VzsIvRoRdCHzg4dTG5TLbw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1065,10 +1065,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.SpecificWriter-1.html",
-          "hash": "E0W6nTjxSsrbzHbJFMY39g=="
+          "hash": "A+podCbwFgWwyzH+4gClDA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1077,10 +1077,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.Specific.html",
-          "hash": "ZkP+xKmutv5Ej4fEjm5slw=="
+          "hash": "PpLQV21L+RO7WF1An3LSDQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1089,10 +1089,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.UnionSchema.html",
-          "hash": "+ZXBMrQjhQSPksrqiDbNug=="
+          "hash": "09beiSmbemRAeFtQr18tqQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1101,10 +1101,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.UnnamedSchema.html",
-          "hash": "v2IM+l/yrjZDa8/HaB9sYA=="
+          "hash": "CuInVsJqVxKmsBlEpcTnpw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1113,10 +1113,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.msbuild.AvroBuildTask.html",
-          "hash": "F/hvMrS8ngtHEFyJBO6hjw=="
+          "hash": "7rMereAomTo1qe/Wa3E1JQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1125,10 +1125,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.msbuild.html",
-          "hash": "xycN/0dSlTCWKLIW4+BT7Q=="
+          "hash": "+HKeXKdTGyWB6aPSfF+xsQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1137,10 +1137,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Avro.html",
-          "hash": "hZEo2k1MV0hfzia9kZ2gaA=="
+          "hash": "OLc9DMeL/smcyqIfCl7oSA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1149,10 +1149,10 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "s/FVO+4iRxHicVNKOCDbIg=="
+          "hash": "MlBVORAIcm+Df0Uzvh8b2A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1173,7 +1173,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "t90R/iPp5rKxZEm6KyePcA=="
+          "hash": "12iGtTF8tRJDdQwiGooLfQ=="
         }
       },
       "is_incremental": true,
@@ -1197,7 +1197,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "jubXUKdfSD8NRh7H99hBsw=="
+          "hash": "UTLznWO8TVFzyScxrmIhHg=="
         }
       },
       "is_incremental": true,
@@ -1223,17 +1223,17 @@
         "incrementalPhase": "build"
       },
       "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build"
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
-          "incrementalPhase": "build"
-        },
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         }
       }
